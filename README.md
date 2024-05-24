@@ -3,7 +3,7 @@ Boas vindas ao meu perfil
 
 ⭐Meu nome é Emanuelle Coregio
 
-⭐Estou estudando na Alura
+⭐Estou estudando na [Alura](https:www.alura.com.br)
 
 ⭐Estou me desenvolvendo na linguagem JavaScript
 
